@@ -1,0 +1,4 @@
+.vscode/
+*.html
+*.docx
+!.gitkeep
